@@ -4,7 +4,7 @@
 KARTUM91 adalah usaha rumahan kue kacang yang membutuhkan sistem informasi untuk memperluas pasar dan mengotomasi pencatatan penjualan. Proyek ini bertujuan untuk membangun sistem penjualan berbasis web yang efisien, user-friendly, dan terintegrasi dengan sistem pembayaran.
 
 ## 📌 Konten Repository
-- 📄 `Business_Case_KARTUM91.pdf`: Dokumen lengkap business case
+- 📄 `Business Case KARTUM91.pdf`: Dokumen lengkap business case
 - 📊 `Usecase_Diagram.png`, `Activity_Diagram.png`, `Class_Diagram.png`: Diagram pendukung
 
 ## 🎯 Tujuan Proyek
